@@ -1,0 +1,172 @@
+Step 4 - Base model vs assistant (SLM Testing, stanley-00-slm-testing.hf.space)
+Use GPU was unticked, but the page reported the model running on CUDA.
+
+==================================================================
+MODEL: HuggingFaceTB/SmolLM2-135M (base), Completion mode
+==================================================================
+
+--- Prompt: What is 2+2? ---
+
+Run 1:
+What is 2+2?
+A + B = C
+3 - 4 + 5 = 6
+7 x 8 - 9 = 0
+1/x + y = 1/n
+3(2) - (6) + 1/4 = 1/(6)
+Practice Problems for 2+2
+Example: 2 + 2 = ?
+Solution: Step 1:
+Write down the given numbers.
+Step 2:
+Multiply both sides by 2 to make it a multiplication equation.
+We know that, we can multiply by 2 as follows:
+$a\times b=b\times a=\frac{a}{2}=\frac{2}{a}$
+$a=2$, and $b=2$ Therefore, $a \times b=2 \times 2 = 4$.
+$a=2$, and $b=2$ Therefore, $a \times b=2 \times 2 = 4$.
+$a=2$, and $b=-2$ Therefore,
+
+Run 2:
+What is 2+2? 3. 4 + 5 = ? 4. 9 – 10 = ? 5. 8 – 7 = ? 6. 3 × 2 = ? 7. 6 x 8 = ? 8. 12 ÷ 3 = ? 9. 5 – 7 = ? 10. 8 ÷ 3 = ?
+4th Grade Number System Worksheets
+4th Grade Math Worksheets: Numbers and Operations with Fractions, Decimals and Percentages. These worksheets are designed to help students practice the basic operations of addition, subtraction, multiplication, division and fraction equivalence using a variety of different sets of problems based on a given number system (Fractional, Decimal, Percentage). Students will also be asked to explain how they arrived at their answers by relating them back to a real-life situation involving fractions or percentages. You can use these worksheets for both kindergarten through grade eight! ## Free Printable Math Worksheets for Kids - Printable Math Worksheets
+Math worksheets have been around since before our parents were even born. We all remember being able to solve puzzles and do arithmetic when we were young children. But did you know that there’s actually a whole
+
+Run 3:
+What is 2+2? • 10 x 3 + 5 = 14. • 69 ÷ 8 = 7. • 4 × 6 - 2 – 4 = 18. • 2x 3y-2 = 3x 2 y • 2(3) + (5) = 2 + 3 = 5. • 2 + 2 = 4.
+Find the sum of all positive integers less than or equal to 1,000 that are evenly divisible by 4:
+Find the sum of all even numbers less than or equal to 1,000 that are evenly divisible by 4: a) 2 b) 4 c) 6 d) 8 e) 10 f) 12 g) 14
+
+--- Prompt: Here is my top 10 list of landmarks to see in Paris: ---
+
+Run 1:
+Here is my top 10 list of landmarks to see in Paris:
+The Arc de Triomphe (the "Tower of the Sun")
+Notre Dame Cathedral
+the Eiffel Tower, located in the heart of the city.
+the Champs Elysees, a UNESCO World Heritage Site and a popular tourist attraction
+the Pont Neuf, the largest bridge on the French Riviera
+the Louvre Museum
+the Sacré Coeur Basilica
+the Palais de Justice
+the Rue de la Concorde
+the Place des Vosges
+the Place de la Concorde
+the Rue d'Italie
+the Place de l'Etoile
+the Place de la Concorde
+the Place de la Concorde
+the Place de la Concorde
+the Place de l'Etoile
+the Place de la Concorde
+the Place de la Concorde
+the Place de l'Etoile
+the Place de la Concorde
+the Place de l'Etoile
+the Place de la Concorde
+the Place de la Concorde
+the Place de l'Etoile
+the Place de la Concorde
+the Place de
+
+Run 2:
+Here is my top 10 list of landmarks to see in Paris:
+Paris, France
+The Arc de Triomphe
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+Place de la Concorde
+
+Run 3:
+Here is my top 10 list of landmarks to see in Paris:
+Champs Elysées
+Eiffel Tower
+Place of the Great War
+Notre Dame de Paris
+Place de la Concorde
+Musée d’Orsay
+Place de la Concorde
+Place de l'Est
+Place de la Concorde
+Place de la Concorde
+Paris can be pretty expensive, but it's definitely worth going if you're interested in architecture and art history or just want to travel around France for some fun.
+
+==================================================================
+MODEL: HuggingFaceTB/SmolLM2-135M-Instruct (assistant), Chat mode
+System prompt: "You are a helpful assistant."
+==================================================================
+
+--- Prompt: What is 2+2? ---
+
+Run 1:
+The sum of two and two equals four, which can be mathematically represented as 2 + 2 = 4.
+
+Run 2:
+The sum of 2 and 2 equals 4.
+
+Run 3:
+The answer to the classic arithmetic question "2 + 2" is 4.
+
+--- Prompt: Here is my top 10 list of landmarks to see in Paris: ---
+
+Run 1:
+Bonjour, welcome to the City of Light! I'm delighted to help you create your dream itinerary for exploring the iconic landmarks of Paris. Here are 10 must-see attractions that will leave you with unforgettable memories:
+Eiffel Tower: This iron lady stands as an eternal symbol of Paris and offers breathtaking views of the city from its observation decks.
+Louvre Museum: Home to thousands of works of art, including the Mona Lisa, this museum is a treasure trove of French history and culture.
+Notre-Dame Cathedral: A masterpiece of Gothic architecture, this historic cathedral has stood since the 12th century and is steeped in history and faith.
+Montmartre: Known for its bohemian vibe, narrow streets lined with charming cafes, artists' studios, and stunning views of the city from the top of the hill.
+Sainte-Chapelle: Famous for its stunning stained glass windows, Sainte-Chapelle is an architectural marvel.
+Champs-Élysées: This main avenue is lined with some of the most famous cafes and shops in Paris.
+**Reims
+
+Run 2:
+Eiffel Tower
+Louvre Museum
+Notre Dame Cathedral
+Arc de Triomphe
+Seine River
+Montmartre
+Palace of Versailles
+Sainte-Chapelle
+Rue Cler
+Champs-Élysées
+
+Run 3:
+Eiffel Tower - This iconic structure offers breathtaking views from the top, and it's also home to a museum showcasing its history.
+Notre-Dame Cathedral - A beautiful Gothic church that was destroyed by fire during the French Revolution but has been rebuilt and is now a symbol of the city's resilience.
+Louvre Museum - Home to thousands of works of art including the Mona Lisa, this museum boasts an impressive collection.
+Arc de Triomphe - This monumental arch honors the soldiers who fought for France in World War I.
+Seine River - Cruises on the river offer a glimpse into Paris' rich history.
+Champs-Élysées - Known as "the avenue of dreams," this main street stretches along the west bank of the Seine and is lined with upscale cafes, shops, and theaters.
+Montmartre - Famous for its bohemian vibe, charming streets, and stunning views of the city.
+Palais-Royal - An opulent palace turned museum featuring some of the world's most famous artworks, including Van Gogh's Sunflowers.
+Notre-Dame Basilica - Once a cathedral, it's now the site
+
+==================================================================
+COMPARISON
+==================================================================
+What is 2+2?
+- Base: never simply answers. It continues the text as if it were a maths
+  worksheet or exercise page (more equations, worksheet text). The answer 4
+  only appears by chance inside the continuation.
+- Instruct: answers "4" directly in all three runs.
+
+Paris landmarks:
+- Base: continues the list like a web page, then gets stuck repeating
+  "Place de la Concorde". It also invents facts, e.g. the Pont Neuf as "the
+  largest bridge on the French Riviera" and the Arc de Triomphe as the
+  "Tower of the Sun".
+- Instruct: replies like an assistant with a structured list of real
+  landmarks, but still contains errors, e.g. Notre-Dame "destroyed by fire
+  during the French Revolution", the Palais-Royal holding Van Gogh's
+  Sunflowers, and the Palace of Versailles, which is outside Paris.
+
+Conclusion: the base model continues documents; the instruct version, after
+post-training on conversations, responds to the question. Both are very small
+(135M parameters), so both make factual mistakes.

@@ -1,0 +1,27 @@
+Step 6 - Simple checks
+Assistant used: Claude, Opus 5.5
+
+==================================================================
+Without code (assistant's own answers)
+==================================================================
+Which decimal is larger, 9.11 or 9.9? - 9.9 is larger. Written to the same number of decimal places, it's 9.90 against 9.11, and 0.90 is more than 0.11.
+
+How many r's are in "strawberry"? - "Strawberry" has 3 r's: strawberry, one after the "t" and two together near the end.
+
+Extract every third character of "Ubiquitous", starting with the first. - The answer is "Uqts". "Ubiquitous" has 10 letters. Starting with the first and taking every third gives positions 1, 4, 7 and 10: 
+1: U
+4: q
+7: t
+10: s
+
+==================================================================
+With executed code (PowerShell, Python)
+==================================================================
+PS C:\Windows\System32> python -c "print(max(9.11, 9.9));
+>> print('strawberry'.count('r')); print('Ubiquitous'[::3])"
+9.9
+3
+Uqts
+
+Correct results: 9.9 | 3 | Uqts
+Both the assistant and the code were correct.

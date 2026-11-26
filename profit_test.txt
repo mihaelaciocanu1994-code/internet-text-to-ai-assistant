@@ -1,0 +1,87 @@
+Step 6 - Profit calculation: thinking vs non-thinking
+App and model: Claude, Opus 5.5
+"Non-thinking" = Effort Low; "thinking" = Effort High. (Claude has no on/off
+thinking switch, only an effort level.)
+
+Correct answer: EUR 930.46 (checked with executed code)
+
+==================================================================
+Run 1 - Effort Low - "Give only the final answer"
+==================================================================
+Output: €930.46
+Correct? Yes
+
+==================================================================
+Run 2 - Effort Low - "Show the calculation before answering"
+==================================================================
+Output:
+Show the calculation before answering - 1. Units sold, then returned
+Sold: 1,247 × 83% = 1,035.01, rounded down to 1,035 units
+Returned: 1,035 × 7% = 72.45, rounded down to 72 units
+Kept by customers: 1,035 − 72 = 963 units
+Unsold: 1,247 − 1,035 = 212 units
+2. Revenue
+Price after the 12% discount: 64.90 × 0.88 = €57.112
+Sales after refunds: 963 × 57.112 = €54,998.856
+Unsold units: 212 × 21.40 = €4,536.80
+The 72 returned units bring in nothing, because they were refunded and can't be resold.
+Total revenue = €59,535.656
+3. Costs
+Purchase: 1,247 × 38.75 = €48,321.25
+Shipping: 1,247 × 2.85 = €3,553.95
+Fixed costs: €6,730.00
+Total costs = €58,605.20
+4. Profit59,535.656 − 58,605.20 = 930.456, which rounds to €930.46
+Correct? Yes
+
+==================================================================
+Run 3 - Effort High - "Give only the final answer"
+==================================================================
+Output: €930.46
+Correct? Yes
+
+==================================================================
+Run 4 - Effort High - "Show the calculation before answering"
+==================================================================
+Output:
+Retailer profit calculation
+1. Purchase cost1,247 × €38.75 = €48,321.25
+2. Units sold83% × 1,247 = 1,035.01, rounded down to 1,035 units
+3. Returns7% × 1,035 = 72.45, rounded down to 72 unitsUnits kept by customers = 1,035 − 72 = 963 units
+4. Discounted selling price€64.90 × (1 − 0.12) = €57.112 per unit. I kept this unrounded because the question says to round only the final amount.
+5. Net sales revenue (after refunds)963 × €57.112 = €54,998.856
+6. Unsold units1,247 − 1,035 = 212 units212 × €21.40 = €4,536.80The 72 returned units can't be resold, so they're not included here.
+7. Shipping1,247 × €2.85 = €3,553.95
+8. Profit
+Item
+Amount (€)
+Net sales revenue
+54,998.856
+Revenue from unsold units
++ 4,536.80
+Total revenue
+59,535.656
+Purchase cost
+− 48,321.25
+Shipping
+− 3,553.95
+Fixed costs
+− 6,730.00
+Total costs
+58,605.20
+Profit
+930.456
+Final profit: €930.46
+Correct? Yes
+
+==================================================================
+COMPARISON
+==================================================================
+All four runs gave the correct answer, EUR 930.46. On this problem there was
+no difference in accuracy between low and high effort, or between "answer
+only" and "show the calculation". The difference was in the output: the
+high-effort run explained its choices more (e.g. keeping EUR 57.112
+unrounded because only the final amount should be rounded) and presented the
+result as a table. A large current model handles this multi-step
+calculation even with little thinking; smaller or older models are more
+likely to make mistakes when asked for the answer only.

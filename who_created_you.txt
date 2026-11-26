@@ -1,0 +1,13 @@
+Step 6 - Who created you?
+Assistant: Gemini [FILL IN exact model, e.g. from the model picker]
+
+Prompt: Who created you?
+Answer: I am Gemini, a large language model built by Google
+
+Documentation checked: deepmind.google (Gemini model page)
+According to the documentation, Gemini was developed by Google DeepMind
+(Google).
+
+Verdict: CORRECT. The answer matches the documentation.
+Note: a model has no real self-knowledge; it answers this from its training
+and its system prompt. Small or local models sometimes name the wrong company.

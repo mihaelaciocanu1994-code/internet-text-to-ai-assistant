@@ -1,0 +1,106 @@
+Chosen sentence (appears exactly in fineweb_corpus.txt):
+A one stop shop for any artist!
+
+Beginning used: ' A one stop'
+All beginning tokens are in the model's vocabulary: [(355, ' A'), (1001, ' one'), (5666, ' stop')]
+
+  1: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+  2: A one stop shop, Publix Super Markets, Lakeland, Fla., said in the U Connect Live session that
+  3: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+  4: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+  5: A one stopIm sorry, I shouldnt have been using that animation in my paid presentations. I wont use it
+  6: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+  7: A one stopcycled creations of Lisa Brunetta. From popcan earrings to oil paintings of beach scenes, you may
+  8: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+  9: A one stop shop, Publix experienced, fewer than 50 went through the RRE, he said, adding
+ 10: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 11: A one stop inspection ones. - Install a bicycle rack or locked bicycle cage. - With the leftover space, put
+ 12: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 13: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 14: A one stop shop eight separate caged stalls for eight separate trash cans? I know it’s not nice to stare
+ 15: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 16: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 17: A one stop shop, my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this
+ 18: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 19: A one stop Latcham Gallery Annual Juried Exhibition this year. Selected by the jurors Katerina At
+ 20: A one stopcycled creations of Lisa Brunetta. From popcan earrings to oil paintings of beach scenes, you may
+ 21: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 22: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 23: A one stop Latcham Gallery Annual Juried Exhibition this year. Selected by the jurors Katerina At
+ 24: A one stop document below. Also, the video of my Art Battle experience is now completed and posted on Vimeo.
+ 25: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 26: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 27: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 28: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 29: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 30: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 31: A one stop shop my knowledge. - Intelligent Design on trial: ...to my knowledge, Discovery Institute has neither authorized
+ 32: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 33: A one stop Latcham Gallery Annual Juried Exhibition this year. Selected by the jurors Katerina At
+ 34: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 35: A one stop What You Urinary In take action. One of the association officials and retailers. Manufacturers use the exchange
+ 36: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 37: A one stop Latcham Gallery Annual Juried Exhibition this year. Selected by the jurors Katerina At
+ 38: A one stop shop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year
+ 39: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 40: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 41: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 42: A one stop inspection to communicate timely and accurate product recall and withdrawal notifications to retailer and wholesaler headquarters, which in
+ 43: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 44: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 45: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 46: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 47: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 48: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 49: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 50: A one stop one with grass, leaves, and vegetable scraps, let it decompose for six months, then start
+ 51: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 52: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 53: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 54: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 55: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 56: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 57: A one stop-to-eat foods. |Code||Observation / Corrective Action| |2-201.11
+ 58: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 59: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 60: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 61: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 62: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 63: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 64: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 65: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 66: A one stop shop out with my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition
+ 67: A one stop2444, TTY 703-591-6435. |2-301.15||
+ 68: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 69: A one stop ones. - Install a bicycle rack or locked bicycle cage. - With the leftover space, put in
+ 70: A one stop numbers), the latest U.S. Track & Field/Cross Country Coaches Association Division III Mideast
+ 71: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 72: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 73: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 74: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 75: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 76: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 77: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 78: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 79: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 80: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 81: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 82: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 83: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 84: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 85: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next
+ 86: A one stop grass, leaves, and vegetable scraps, let it decompose for six months, then start filling the
+ 87: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 88: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 89: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 90: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 91: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 92: A one stop Wednesday, I feel extremely honoured. Giving a juror's talk next Wednesday, I hope to speak
+ 93: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 94: A one stop What You some recalls that don't go through the RRE, “nine times out of 10 we're
+ 95: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 96: A one stopage racks. Milk crates, soda crates, or bread racks are not suitable for food storage. News
+ 97: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+ 98: A one stop my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year.
+ 99: A one stop mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected
+100: A one stopka chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next

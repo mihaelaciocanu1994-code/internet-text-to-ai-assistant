@@ -1,0 +1,6 @@
+Prompt: 'The sky is'
+Prompt tokens (o200k_base): [(976, 'The'), (17307, ' sky'), (382, ' is')]
+Model vocabulary size: 1814 tokens
+
+FAILED: these prompt tokens never appear in the training corpus, so the model has no ID for them: [(17307, ' sky')]
+The model can only read and write tokens it saw in fineweb_corpus.txt.

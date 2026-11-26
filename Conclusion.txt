@@ -1,0 +1,2 @@
+Claude answered in Round 2 (with the article included):
+Without the article, the model answered general facts correctly but gave an outdated population (matching the 2014 census instead of 2024) and was unsure about the former name and the founding date. With the article attached, it used the current figure and said "Not in the article" instead of inventing answers. Giving the model the source puts the evidence in its context and reduces hallucinations, but it can only be as complete as the document you give it.

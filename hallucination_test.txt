@@ -1,0 +1,51 @@
+Step 6 - Hallucination test: five questions about an obscure topic (Sîngerei, Moldova)
+
+Questions:
+1. Where is Sîngerei located?
+2. Which district is Sîngerei the administrative center of?
+3. What is its population?
+4. What was it called before?
+5. When was it first documented?
+
+==================================================================
+ROUND 1 - WITHOUT the article
+Assistant: Claude, Opus 5.5 (in an existing chat, web search not used)
+==================================================================
+1. A town in the north-central part of the Republic of Moldova, roughly between Bălți and Orhei. (Fairly sure.)
+2. Sîngerei is itself the administrative center of Sîngerei District. (Sure.)
+3. Somewhere around 12,000–15,000. I don't know the exact census figure. (Unsure.)
+4. In Soviet times it was called Lazovsk, after the revolutionary Sergei Lazo. (Fairly sure, but not certain of the exact years.)
+5. I don't know. My guess would be somewhere in the 16th–17th century, but treat that as a guess, not a fact. (Not sure.)
+
+==================================================================
+ROUND 2 - WITH the article attached
+Assistant: Claude, Opus 5.5 - same assistant, new chat
+Article: Wikipedia, "Sîngerei", https://en.wikipedia.org/wiki/Sîngerei
+==================================================================
+1. Location: Sîngerei is in the north-central part of Moldova, in southeastern Europe. It lies in Sîngerei 
+2. District and is part of the Bessarabia region.
+District: It is the administrative center and largest city of Sîngerei District.
+3. Population: It had 9,954 inhabitants in the 2024 census, down from 12,465 in the 2014 census. The opening paragraph only gives the older 2014 figure.
+4. Former name: Not in the article. It only gives the other spelling, Sângerei, which isn't a former name.
+5. First documented: Not in the article.
+
+==================================================================
+CHECK (against Wikipedia, "Sîngerei", en.wikipedia.org/wiki/Sîngerei)
+==================================================================
+1. North-central Moldova - Round 1 CORRECT. (Wikipedia does not name nearby cities.)
+2. Administrative center of Sîngerei District - Round 1 CORRECT.
+3. 2024 census: 9,954 (2014 census: 12,465) - Round 1 OUTDATED: the range fits
+   the 2014 figure, not the latest census. Typical training-data problem.
+4. Lazovsk - not stated on English Wikipedia. [FILL IN: check against your article]
+5. Not stated on English Wikipedia. [FILL IN: check against your article]
+   Round 1 admitted it did not know - no invented date.
+
+==================================================================
+CONCLUSION
+==================================================================
+[FILL IN after Round 2, e.g.: Without the article the assistant was right on
+general facts but outdated or unsure on exact numbers and dates. With the
+article it could answer from the evidence in its context.]
+
+Note: Round 1 was run in a chat that already contained the conversation, so it
+is not a perfectly clean test.

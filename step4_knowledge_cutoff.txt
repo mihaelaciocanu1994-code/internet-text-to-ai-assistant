@@ -1,0 +1,38 @@
+Step 4 - Knowledge cutoff
+Model: HuggingFaceTB/SmolLM2-135M (base), Completion mode
+
+==================================================================
+Prompt: The 2020 Nobel Prize in Economic Sciences was awarded to
+==================================================================
+Output:
+The 2020 Nobel Prize in Economic Sciences was awarded to two economists who have been working on the subject of how global warming could affect the economy. The first, Professor Armin Shapiro of the University of Chicago, is a professor at the University of Chicago and author of “Global Warming and Its Effects.” He recently won the prestigious Nobel prize for economics for his paper titled “The Economics of Global Warming: A New Approach.”
+“There are many ways that we can increase energy efficiency,” said Shapiro, one of the winners. “If you want more electricity produced by solar power than wind or nuclear power, you don’t need to build new coal plants — just put old ones out. You can use older technology with better efficiency. This will save us money over time as renewable energy grows in popularity. It also gives us some flexibility when it comes to future climate change policies.”
+Professor Andrew Revkin of Columbia University has written several books about the effects of climate change on our lives, including “A World Full of Climate Change: How the Modern World Can Survive Climate Change” (Oxford University Press, 2019). His latest book, “An Unsettling Future: The Role of Science, Technology, and Climate Change in the Post-Gilded Age,” has been published online by the
+
+Correct answer (nobelprize.org): Paul R. Milgrom and Robert B. Wilson, for
+improvements to auction theory and inventions of new auction formats.
+
+Verdict: WRONG. The 2020 prize was in the model's training data, but the
+model invented names ("Armin Shapiro") and a topic (global warming). A
+model this small does not reliably store such facts, so it fills the
+familiar news-article pattern with invented details.
+
+==================================================================
+Prompt: The 2026 Nobel Prize in Economic Sciences was awarded to
+==================================================================
+Output:
+The 2026 Nobel Prize in Economic Sciences was awarded to a group of Chinese and American scientists for their work on the economics of sustainable development. The winners were two researchers who discovered that an economic system based on consumption-based growth is unsustainable, but they also showed how it could be replaced by one which prioritizes long term social and environmental sustainability.
+What is sustainable?
+Sustainability refers to the ability of an ecosystem or natural resource to provide essential services without compromising its capacity for future generations’ survival. The concept has been around since ancient times as well, but the modern form can only come from scientific research done using statistical techniques such as statistics. While there are many types of sustainable systems, one type we will look at today is referred to as an economic system. This includes any way in which resources are used over time.
+Economic systems have three major components:
+Production: the production process takes place within a given market economy (also called a free market). A firm produces goods according to the price set by consumers.
+Distribution: this part deals with allocating products among buyers so they can buy them. It might involve producing more than what people need; selling less than what they want; distributing items across different locations; etc.
+Consumption: the final step involves buying these things
+
+Correct answer (nobelprize.org): Robert E. Hall and Michael Woodford, "for
+microeconomic foundations of macroeconomic stabilisation". Announced
+12 October 2026.
+
+Verdict: WRONG. SmolLM2 was released in late 2024, so its training data
+ends before the 2026 prize. It cannot know the answer, yet it answers just
+as confidently - knowledge cutoff and hallucination together.
